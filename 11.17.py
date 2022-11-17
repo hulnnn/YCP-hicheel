@@ -1,0 +1,2 @@
+print("hulan")
+a=input()
